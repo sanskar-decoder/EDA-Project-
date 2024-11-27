@@ -1,9 +1,9 @@
-# EDA-Project-
+# EDA-Project- AIRBNB DATA ANALYSIS
 Analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
 
 ## Summary of Findings and Actionable Recommendations**
 
-**1Room Type Preference:**
+**1.Room Type Preference:**
 
 Private rooms are the most popular type of listing on Airbnb.
 
